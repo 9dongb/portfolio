@@ -56,7 +56,7 @@
 >개발 기간: 2024.03.29 ~ 2024.05.09
 >  
 >기술 스택:  
->Python3 / Pandas / Streamlit
+>Python3 / Pandas / Streamlit / QGIS
 >  
 >[프로젝트 상세 설명](https://github.com/9dongb/air_pollution_analysis) 참고
 >
